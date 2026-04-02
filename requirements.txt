@@ -1,0 +1,6 @@
+# Portfolio Evolution Simulator
+# Requirements
+matplotlib
+numpy
+scikit-learn
+pandas
